@@ -1,7 +1,8 @@
 # DATA ANALYST PERSONAL PORTFOLIO PROJECT FEBRUARY 2026 - MARCH 2026(DỰ ÁN PHÂN TÍCH DỮ LIỆU CÁ NHÂN)
 
 ## 1. GIỚI THIỆU(INTRODUCTION)
-- Dự án 1. Dữ liệu ngân hàng 
+- Dự án 1. Dữ liệu ngân hàng
+
 
 ## 2. TỔNG QUAN
 
